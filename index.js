@@ -17,5 +17,5 @@ function overwriteBestCustomer(input) {
 leastFavoriteCustomer = "moggi"
 
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = "pollo"
+  var leastFavoriteCustomer = "pollo"
 }

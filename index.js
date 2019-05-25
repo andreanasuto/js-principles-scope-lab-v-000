@@ -12,3 +12,9 @@ function setBestCustomer() {
 function overwriteBestCustomer(input) {
   var bestCustomer = input
 }
+
+var leastFavoriteCustomer = "moggi"
+
+function changeLeastFavoriteCustomer() {
+  var leastFavoriteCustomer = 'pollo'
+}

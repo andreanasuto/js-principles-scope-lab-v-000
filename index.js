@@ -1,12 +1,9 @@
 // Write your solution in this file!
-const customerName = 'bob'
+var customerName = 'bob'
 
 function upperCaseCustomerName() {
   customerName = 'BOB'
 }
 
 function setBestCustomer() {
-  const bestCustomer
-
-  let b
 }

@@ -7,7 +7,7 @@ function upperCaseCustomerName() {
 
 
 function setBestCustomer() {
-  const bestCustomer = 'not bob'
+  let bestCustomer = 'not bob'
 }
 
 function overwriteBestCustomer(input) {

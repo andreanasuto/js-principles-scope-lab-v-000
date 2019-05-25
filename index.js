@@ -1,5 +1,5 @@
 // Write your solution in this file!
-let customerName = 'bob'
+const customerName = 'bob'
 
 function upperCaseCustomerName() {
   customerName = 'BOB'
